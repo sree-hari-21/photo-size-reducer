@@ -1,0 +1,6 @@
+{
+  "name": "OmniStudio Desktop",
+  "description": "Cross-platform desktop application suite for image resizing, photo captioning, PDF document conversion, and PDF page & content editing.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
